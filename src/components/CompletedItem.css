@@ -1,0 +1,35 @@
+.bottom {
+    list-style: none;
+    padding-left: 0px;
+    width: 372px;
+}
+
+.bottom li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.items {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.items p{
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+.revert{
+    margin-right: 30px;
+    background-color: white;
+    padding: 3px;
+    border-radius: 10px;
+}
+
+.action{
+     display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

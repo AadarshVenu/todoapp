@@ -1,0 +1,26 @@
+.top{
+    list-style: none;
+    padding-left: 0px;
+    width: 372px;
+}
+.top li input {
+    width: 22px;
+    margin-right: 11px;
+}
+
+.top li {
+    display: flex;
+    align-items: center;
+     justify-content: space-between;
+}
+.top li div {
+    display: flex;
+    align-items: center;
+     
+}
+
+.top li p {
+    padding-top: 3px;
+    font-size: 20px;
+}
+
